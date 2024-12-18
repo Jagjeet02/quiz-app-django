@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+env/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Database files
+*.sqlite3
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Ignore IDE settings
+.idea/
