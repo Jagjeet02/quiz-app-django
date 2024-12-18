@@ -5,20 +5,20 @@
 - Start a new quiz session
 - Answer random questions from the database
 - View quiz summary (Total, Correct, Incorrect)
-- **Enhancements**: Timer, Leaderboard (optional)
+
 
 ## Requirements
 - Python 3.x
 - Django
-- Gunicorn (for production deployment)
+
 
 
 **Instructions to Run the Django Quiz App Project**
 **Clone the repository:**
 git clone https://github.com/Jagjeet02/quiz-app-django.git
 cd quiz-app-django
-**Set up a virtual environment:**
 
+**Set up a virtual environment:**
 For Windows:
 python -m venv venv
 venv\Scripts\activate
